@@ -15,6 +15,4 @@
 - 📞 +55 (15) 99850-5117
 
 ### Social networks
-- <a target="_blank" href="https://www.linkedin.com/in/matheus-carvalho-83a68016a/">LinkedIn</a>
-- <a target="_blank" href="http://www.facebook.com/matheus.h.carvalho">Facebook</a>
-- <a target="_blank" href="https://www.instagram.com/omatheuscarvalho_">Instagram</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/matheus-carvalho-83a68016a/)](https://www.linkedin.com/in/matheus-carvalho-83a68016a/)
