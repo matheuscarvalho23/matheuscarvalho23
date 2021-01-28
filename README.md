@@ -1,7 +1,7 @@
 ## Matheus Carvalho, pleasure 🖖🏻💻
 
 ### About
-- 🔭 Currently working at <a target="_blank" href="http://www.m2n.com.br">M2N</a>
+- 🔭 Currently working at <a target="_blank" href="http://www.burh.com.br">BURH</a>
 - 🏠 Living in Sorocaba, SP - Brazil 🇧🇷
 - 🖥 I've been in the web development area for 1 year
 
