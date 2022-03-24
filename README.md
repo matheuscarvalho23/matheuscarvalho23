@@ -30,10 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalho23&layout=compact&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC" height="180em" alt="Most Used Languages">
 </div>
 
-#### 💻 This week, I spent my time on
-
-![Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheuscarvalho23&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC&layout=compact)
-
 #### Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-carvalho-83a68016a/)
